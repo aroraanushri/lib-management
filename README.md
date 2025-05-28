@@ -1,5 +1,7 @@
 # lib-management
 A simple C-based Library Management System for managing books, users, and book issues/returns.
+
+
 Features include:
 
 -Add, delete, and search books 
