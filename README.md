@@ -2,10 +2,10 @@
 A simple C-based Library Management System for managing books, users, and book issues/returns.
 Features include:
 
-Add, delete, and search books
-Add and edit users
-Issue and return books
-Data persistence using binary files
+-Add, delete, and search books
+-Add and edit users
+-Issue and return books
+-Data persistence using binary files
 
 How to Build
 
